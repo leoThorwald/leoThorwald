@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**leoThorwald/leoThorwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Leo Ganser, a Master's student in SV with a focus in Data Science at EPFL. My work and projects are centered around machine learning, data science, and image analysis.
 
 Here are some ideas to get you started:
 
