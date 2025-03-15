@@ -10,7 +10,7 @@ I’m **Leo Ganser**, a **Master's student** in **SV** with a focus on **Machine
 In this project, I analyzed the correlation between **IMDB ratings** and **box office revenue** for movies. Using Python and data visualization tools, I explored trends, identified key factors influencing revenue, and provided actionable insights for the film industry.
 
 #### 🧬 [RNA Language Models for Catalytic Function Prediction](https://github.com/yourusername/rna-language-models) *(Coming Soon!)*
-Stay tuned for my upcoming project where I explore **RNA language models** to predict catalytic functions. This project combines my interests in **machine learning** and **biological data**, aiming to contribute to advancements in computational biology.
+Stay tuned for my upcoming project where I explore **RNA language models** to predict catalytic functions. This project combines my interests in **machine learning** and **biological data**, aiming to contribute to advancements in computational biology. The ultimate goal is to create a model that given a RNA sequence can predict its function.
 
 ---
 
